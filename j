@@ -1,0 +1,2 @@
+varible= hola
+print (variable)
